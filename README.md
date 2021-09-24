@@ -8,5 +8,5 @@ Stormworks: Build and Rescue 의 한국어 번역입니다.
 관련 업계 종사자는 아니기 때문에 미약한 능력으로 번역을 진행하고 있으므로 업데이트가 즉각적이지 못하고 번역의 퀼리티 또한 좋지 않습니다.
 
 번역본 적용을 위해서는
-C:\사용자\사용자 이름\AppData\Roaming\Stormworks\data\languages 경로에 넣어주신뒤,
+C:\사용자\사용자 이름\AppData\Roaming\Stormworks\data\languages 경로에 넣어주신뒤
 게임을 실행 후 설정-언어에서 '여기에 번역파일이름 입력' 을 선택해주시면 됩니다.
